@@ -1,1 +1,0 @@
-# kurtu0.github.io
