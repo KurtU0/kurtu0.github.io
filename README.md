@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kurt Unger
 
 ## Projects
@@ -15,3 +16,7 @@ Bookshelf is an app.
 University of Missouri
 
 ## Experience
+=======
+# Web Developer
+Kurt Unger is a web developer
+>>>>>>> 62a9579f8a977421d1ef008747750b79053bc3b5
