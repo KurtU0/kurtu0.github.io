@@ -1,5 +1,3 @@
-# Kurt Unger
-
 ## Projects
 
 ### The Missing Columns
