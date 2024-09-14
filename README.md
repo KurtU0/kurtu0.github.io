@@ -1,3 +1,5 @@
+![kurtu.xyz](images/kuxyz.gif "logo")
+
 ## Projects
 
 ### The Missing Columns
