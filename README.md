@@ -1,10 +1,19 @@
 <img src="{{ "images/kuxyz.gif" | prepend: site.baseurl | prepend: site.url}}" alt="kuxyz" />
 
+## Skills
+
+* 3D Modeling/Animation
+    * Blender
+* Video Editing
+    * Davinci Resolve
+    * Adobe Creative Suite
+* Programming Design
+    * Java
+    * C#
+
 ## Projects
 
 ### The Missing Columns
-
-![ZouQuest Screenshot](images/ZQ.png "ZouQuest")
 
 The Missing Columns, nicknamed ZouQuest, was designed to help new students at Mizzou familiarize themselves with campus and university history.
 
