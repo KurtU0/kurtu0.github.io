@@ -1,4 +1,4 @@
-<img src="{{ "images/kuxyz.gif" | prepend: site.baseurl | prepend: site.url}}" alt="kuxyz" />
+<img src="{{ "images/kuxyzglow.gif" | prepend: site.baseurl | prepend: site.url}}" alt="kurtu.xyz" />
 
 ## Skills
 
