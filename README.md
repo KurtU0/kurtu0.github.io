@@ -1,4 +1,4 @@
-![kurtu.xyz](images/kuxyz.gif)
+<img src="{{ "images/kuxyz.gif" | prepend: site.baseurl | prepend: site.url}}" alt="kuxyz" />
 
 ## Projects
 
